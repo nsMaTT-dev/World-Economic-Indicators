@@ -66,14 +66,44 @@ The analysis highlights several differences in economic and human development ac
 - Expected and mean years of schooling increased across the analyzed income groups.
 - Significant development gaps remain between high-income and low-income countries.
 
-## Conclusion
+---
 
-The findings demonstrate substantial differences in economic performance and human development across countries.
+## Dashboard Preview
 
-Although improvements can be observed in several economic, demographic, educational, and health indicators, significant inequalities remain between income groups.
+### 1. Global Economic Overview
 
-This project highlights the importance of analyzing multiple indicators together to better understand global development patterns.
+![Global Economic Overview](overview.png)
+
+### 2. Global Economic Overview Part. 2
+
+![Global Economic Overview Part. 2](economic-overview-2.png)
+
+### 3. Population & GDP Growth
+
+![Population & GDP Growth](population-gdp-growth.png)
+
+### 4. Life Expectancy & Correlation
+
+![Life Expectancy & Correlation](life-expectancy.png)
+
+### 5. Life Expectancy & Correlation Pt. 2
+
+![Life Expectancy & Correlation Pt. 2](life-expectancy-2.png)
+
+### 6. Income Group Analysis
+
+![Income Group Analysis](income-group-analysis.png)
+
+### 7. Human Development
+
+![Human Development](human-development.png)
+
+## Project Conclusion
+
+For the complete project conclusion in English and Portuguese, see:
+
+[World Economic Indicators - Project Conclusion](World-Economic-Indicators-Conclusion.md)
 
 ---
 
-**Project developed using Microsoft Power BI.**
+Project developed using Microsoft Power BI.
